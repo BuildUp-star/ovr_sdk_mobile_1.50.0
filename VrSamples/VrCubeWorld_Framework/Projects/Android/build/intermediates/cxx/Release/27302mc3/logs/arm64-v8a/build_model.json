@@ -1,0 +1,166 @@
+{
+  "abi": "ARM64_V8A",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\.cxx\\Release\\27302mc3\\arm64-v8a",
+  "soFolder": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\intermediates\\cxx\\Release\\27302mc3\\obj\\local\\arm64-v8a",
+  "soRepublishFolder": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a",
+  "abiPlatformVersion": 24,
+  "variant": {
+    "buildSystemArgumentList": [
+      "V\u003d0",
+      "-j8",
+      "-CC:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android",
+      "APP_PLATFORM\u003dandroid-24",
+      "NDK_TOOLCHAIN_VERSION\u003dclang",
+      "APP_STL\u003dc++_static",
+      "NDK_DEBUG\u003d0",
+      "OVR_DEBUG\u003d0",
+      "USE_ASAN\u003d0"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\.cxx",
+      "intermediatesBaseFolder": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\intermediates",
+      "intermediatesFolder": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\intermediates\\cxx",
+      "gradleModulePathName": ":VrSamples:VrCubeWorld_Framework:Projects:Android",
+      "moduleRootFolder": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android",
+      "moduleBuildFile": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build.gradle",
+      "makeFile": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "C:\\Users\\ranxk\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973",
+      "ndkVersion": "27.0.12077973",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 21,
+        "max": 35,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31,
+          "Sv2": 32,
+          "Tiramisu": 33,
+          "UpsideDownCake": 34,
+          "VanillaIceCream": 35
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "C:\\Users\\ranxk\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\build\\cmake\\android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "C:\\Users\\ranxk\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "C:\\Users\\ranxk\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "C:\\Users\\ranxk\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "C:\\Users\\ranxk\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0",
+        "sdkFolder": "C:\\Users\\ranxk\\AppData\\Local\\Android\\Sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": [],
+      "hasBuildTimeInformation": true
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "c++_static",
+    "optimizationTag": "Release"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\.cxx\\Release\\27302mc3\\prefab\\arm64-v8a",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "27302mc3g246s3o4r6t5a2e2kns5w3a1m564w4o2818173p3c6h3q2o4s5hx",
+  "fullConfigurationHashKey": "# Values used to calculate the hash in this folder name.\n# Should not depend on the absolute path of the project itself.\n#   - AGP: 8.1.1.\n#   - $NDK is the path to NDK 27.0.12077973.\n#   - $PROJECT is the path to the parent folder of the root Gradle build file.\n#   - $ABI is the ABI to be built with. The specific value doesn\u0027t contribute to the value of the hash.\n#   - $HASH is the hash value computed from this text.\nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d$PROJECT/VrSamples/VrCubeWorld_Framework/Projects/Android/jni/Android.mk\nNDK_APPLICATION_MK\u003d$PROJECT/VrSamples/VrCubeWorld_Framework/Projects/Android/jni/Application.mk\nAPP_ABI\u003d$ABI\nNDK_ALL_ABIS\u003d$ABI\nNDK_OUT\u003d$PROJECT/VrSamples/VrCubeWorld_Framework/Projects/Android/build/intermediates/cxx/Release/$HASH/obj\nNDK_LIBS_OUT\u003d$PROJECT/VrSamples/VrCubeWorld_Framework/Projects/Android/build/intermediates/cxx/Release/$HASH/lib\nV\u003d0\n-j8\n-C$PROJECT/VrSamples/VrCubeWorld_Framework/Projects/Android\nAPP_PLATFORM\u003dandroid-24\nNDK_TOOLCHAIN_VERSION\u003dclang\nAPP_STL\u003dc++_static\nNDK_DEBUG\u003d0\nOVR_DEBUG\u003d0\nUSE_ASAN\u003d0",
+  "configurationArguments": [
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003dC:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\jni\\Android.mk",
+    "NDK_APPLICATION_MK\u003dC:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\jni\\Application.mk",
+    "APP_ABI\u003darm64-v8a",
+    "NDK_ALL_ABIS\u003darm64-v8a",
+    "NDK_OUT\u003dC:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\intermediates\\cxx\\Release\\27302mc3/obj",
+    "NDK_LIBS_OUT\u003dC:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\intermediates\\cxx\\Release\\27302mc3/lib",
+    "V\u003d0",
+    "-j8",
+    "-CC:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android",
+    "APP_PLATFORM\u003dandroid-24",
+    "NDK_TOOLCHAIN_VERSION\u003dclang",
+    "APP_STL\u003dc++_static",
+    "NDK_DEBUG\u003d0",
+    "OVR_DEBUG\u003d0",
+    "USE_ASAN\u003d0"
+  ],
+  "intermediatesParentFolder": "C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\intermediates\\cxx\\Release\\27302mc3"
+}

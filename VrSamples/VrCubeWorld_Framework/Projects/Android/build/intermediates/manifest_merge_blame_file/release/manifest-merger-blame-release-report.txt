@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.oculus.sdk.Android"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+10        android:targetSdkVersion="25" />
+11
+12    <!-- Tell the system this app requires OpenGL ES 3.1. -->
+13    <uses-feature
+13-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:12:2-75
+14        android:glEsVersion="0x00030001"
+14-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:12:16-48
+15        android:required="true" />
+15-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:12:49-72
+16    <uses-feature
+16-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:14:2-90
+17        android:name="android.hardware.vr.headtracking"
+17-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:14:16-63
+18        android:required="true" />
+18-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:14:64-87
+19    <uses-feature android:name="android.hardware.usb.host" />
+19-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:16:2-59
+19-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:16:16-56
+20
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:18:2-76
+21-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:18:19-73
+22    <!-- Network access needed for OVRMonitor -->
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:20:2-64
+23-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:20:19-61
+24    <!-- Volume Control -->
+25    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+25-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:22:2-77
+25-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:22:19-74
+26
+27    <application
+27-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:24:2-48:16
+28        android:allowBackup="false"
+28-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:24:15-42
+29        android:extractNativeLibs="false"
+30        android:label="vrcubeworldfw" >
+30-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:24:43-72
+31        <meta-data
+31-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:25:3-94
+32            android:name="com.samsung.android.vr.application.mode"
+32-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:25:14-68
+33            android:value="vr_only" />
+33-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:25:69-92
+34        <meta-data
+34-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:26:5-81
+35            android:name="com.oculus.supportedDevices"
+35-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:26:16-58
+36            android:value="all" />
+36-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:26:59-78
+37
+38        <!-- launchMode is set to singleTask because there should never be multiple copies of the app running -->
+39        <!-- Theme.Black.NoTitleBar.Fullscreen gives solid black instead of a (bad stereoscopic) gradient on app transition -->
+40        <!-- If targeting API level 24+, configChanges should additionally include 'density'. -->
+41        <!-- If targeting API level 24+, android:resizeableActivity="false" should be added. -->
+42        <activity
+42-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:32:3-47:14
+43            android:name="com.oculus.sdk.vrcubeworldfw.MainActivity"
+43-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:33:5-61
+44            android:configChanges="screenSize|screenLayout|orientation|keyboardHidden|keyboard|navigation|uiMode"
+44-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:38:5-106
+45            android:excludeFromRecents="false"
+45-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:37:5-39
+46            android:launchMode="singleTask"
+46-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:35:5-36
+47            android:screenOrientation="landscape"
+47-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:36:5-42
+48            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+48-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:34:5-69
+49            <meta-data
+49-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:40:4-83
+50                android:name="android.app.lib_name"
+50-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:40:15-50
+51                android:value="vrcubeworldfw" />
+51-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:40:51-80
+52
+53            <!-- This filter lets the apk show up as a launchable icon. -->
+54            <intent-filter>
+54-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:43:4-46:20
+55                <action android:name="android.intent.action.MAIN" />
+55-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:44:5-57
+55-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:44:13-54
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:45:5-65
+57-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:45:15-62
+58            </intent-filter>
+59        </activity>
+60    </application>
+61
+62</manifest>

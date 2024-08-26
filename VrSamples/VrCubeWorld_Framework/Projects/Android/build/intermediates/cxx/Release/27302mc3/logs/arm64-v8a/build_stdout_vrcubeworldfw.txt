@@ -1,0 +1,228 @@
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= Fader.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= DefaultComponent.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= CollisionPrimitive.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : sampleframework <= Appl.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= Reflection.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= GazeCursor.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= GuiSys.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= ReflectionData.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= SoundLimiter.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= VRMenuComponent.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= VRMenuEvent.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= VRMenu.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= VRMenuEventHandler.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= ArmModel.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= AxisRenderer.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= ControllerRenderer.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= MetaDataManager.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= Skeleton.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= VRMenuMgr.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile        : samplecommon <= Log.c
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= SkeletonRenderer.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= tinyxml2.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= ModelCollision.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= VRMenuObject.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= OVR_Locale.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= ModelTrace.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= TinyUI.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= ModelRender.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= OVR_MappedFile.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= OVR_BinaryFile2.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= ModelFile.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= SceneView.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= OVR_Lexer2.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= OVR_FileSys.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= OVR_Uri.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= OVR_UTF8Util.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= OVR_Stream.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile        : samplecommon <= Egl.c
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= ModelFile_OvrScene.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= EaseFunctions.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= GlBuffer.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= PackageFiles.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= BeamRenderer.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= DebugLines.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= GlSetup.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= GeometryRenderer.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= ModelFile_glTF.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= GlProgram.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= GeometryBuilder.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= PanelRenderer.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= BitmapFont.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= GlTexture.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= PointList.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= GlGeometry.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= System.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile        : minizip <= ioapi.c
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= SurfaceRender.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile        : minizip <= miniunz.c
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile        : minizip <= mztools.c
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= Ribbon.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= SurfaceTexture.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile        : minizip <= unzip.c
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile        : minizip <= zip.c
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= ParticleSystem.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= TextureAtlas.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile        : android_native_app_glue <= android_native_app_glue.c
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] StaticLibrary  : libminizip.a
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] StaticLibrary  : libsampleframework.a
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] StaticLibrary  : libandroid_native_app_glue.a
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile        : stb <= stb_image_write.c
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile++      : samplecommon <= TextureManager.cpp
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] StaticLibrary  : libsamplecommon.a
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile        : stb <= stb_vorbis.c
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] Compile        : stb <= stb_image.c
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] StaticLibrary  : libstb.a
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+make: Entering directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
+[arm64-v8a] SharedLibrary  : libvrcubeworldfw.so
+make: Leaving directory 'C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'

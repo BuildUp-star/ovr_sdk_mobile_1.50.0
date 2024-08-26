@@ -1,0 +1,1 @@
+int string vrcubeworld_activity 0x7f010000

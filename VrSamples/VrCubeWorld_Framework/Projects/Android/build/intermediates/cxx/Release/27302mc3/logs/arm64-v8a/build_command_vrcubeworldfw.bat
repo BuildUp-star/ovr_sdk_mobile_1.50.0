@@ -1,0 +1,19 @@
+@echo off
+"C:\\Users\\ranxk\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\ndk-build.cmd" ^
+  "NDK_PROJECT_PATH=null" ^
+  "APP_BUILD_SCRIPT=C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\jni\\Android.mk" ^
+  "NDK_APPLICATION_MK=C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\jni\\Application.mk" ^
+  "APP_ABI=arm64-v8a" ^
+  "NDK_ALL_ABIS=arm64-v8a" ^
+  "NDK_OUT=C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\intermediates\\cxx\\Release\\27302mc3/obj" ^
+  "NDK_LIBS_OUT=C:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android\\build\\intermediates\\cxx\\Release\\27302mc3/lib" ^
+  "V=0" ^
+  -j8 ^
+  "-CC:\\Users\\ranxk\\Downloads\\ovr_sdk_mobile_1.50.0\\VrSamples\\VrCubeWorld_Framework\\Projects\\Android" ^
+  "APP_PLATFORM=android-24" ^
+  "NDK_TOOLCHAIN_VERSION=clang" ^
+  "APP_STL=c++_static" ^
+  "NDK_DEBUG=0" ^
+  "OVR_DEBUG=0" ^
+  "USE_ASAN=0" ^
+  vrcubeworldfw
