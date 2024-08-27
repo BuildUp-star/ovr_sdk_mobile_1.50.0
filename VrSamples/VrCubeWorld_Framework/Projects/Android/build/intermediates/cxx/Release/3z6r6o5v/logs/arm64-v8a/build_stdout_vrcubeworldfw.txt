@@ -1,9 +1,3 @@
 make: Entering directory `C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'
-[arm64-v8a] Prebuilt       : libvrapi.so <= C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android/jni/../../../../..//VrApi/Projects/AndroidPrebuilt/jni/../../../Libs/Android/arm64-v8a/Release/
-[arm64-v8a] StaticLibrary  : libsampleframework.a
-[arm64-v8a] StaticLibrary  : libsamplecommon.a
-[arm64-v8a] StaticLibrary  : libminizip.a
-[arm64-v8a] StaticLibrary  : libstb.a
-[arm64-v8a] StaticLibrary  : libandroid_native_app_glue.a
-[arm64-v8a] SharedLibrary  : libvrcubeworldfw.so
+make: Nothing to be done for `vrcubeworldfw'.
 make: Leaving directory `C:/Users/ranxk/Downloads/ovr_sdk_mobile_1.50.0/VrSamples/VrCubeWorld_Framework/Projects/Android'

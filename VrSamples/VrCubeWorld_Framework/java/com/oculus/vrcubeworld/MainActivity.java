@@ -1,6 +1,15 @@
 // Copyright (c) Facebook Technologies, LLC and its affiliates. All Rights reserved.
 package com.oculus.sdk.vrcubeworldfw;
 
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.speech.RecognitionListener;
+import android.speech.RecognizerIntent;
+import android.speech.SpeechRecognizer;
+
+
 /**
  * When using NativeActivity, we currently need to handle loading of dependent shared libraries
  * manually before a shared library that depends on them is loaded, since there is not currently a
@@ -25,4 +34,22 @@ public class MainActivity extends android.app.NativeActivity {
     System.loadLibrary("vrapi");
     System.loadLibrary("vrcubeworldfw");
   }
+  private static final int SPEECH_REQUEST_CODE = 100;
+
+
+  public void startSpeechRecognition() {
+    Intent intent = new Intent(this, SpeechRecognitionActivity.class);
+    startActivityForResult(intent, SPEECH_REQUEST_CODE);
+  }
+
+
+  @Override
+  protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+    super.onActivityResult(requestCode, resultCode, data);
+    if (requestCode == SPEECH_REQUEST_CODE && resultCode == RESULT_OK) {
+      String recognizedText = data.getStringExtra("recognizedText");
+      // Handle the recognized text in your native activity
+    }
+  }
+
 }

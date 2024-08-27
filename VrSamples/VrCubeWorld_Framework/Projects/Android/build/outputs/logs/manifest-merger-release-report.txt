@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:2:1-49:12
-INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:2:1-49:12
+ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:2:1-52:12
 	package
 		ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:4:3-41
 		INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml
@@ -50,8 +50,8 @@ ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_
 	android:name
 		ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:22:19-74
 application
-ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:24:2-48:16
-INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:24:2-48:16
+ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:24:2-51:16
+INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:24:2-51:16
 	android:extractNativeLibs
 		INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml
 	android:label
@@ -100,6 +100,12 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:45:5-65
 	android:name
 		ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:45:15-62
+activity#com.oculus.sdk.vrcubeworldfw.SpeechRecognitionActivity
+ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:48:3-50:31
+	android:exported
+		ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:50:4-28
+	android:name
+		ADDED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:49:4-73
 uses-sdk
 INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml

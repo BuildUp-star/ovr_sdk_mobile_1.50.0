@@ -39,7 +39,7 @@
 25-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:22:19-74
 26
 27    <application
-27-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:24:2-48:16
+27-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:24:2-51:16
 28        android:allowBackup="false"
 28-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:24:15-42
 29        android:extractNativeLibs="false"
@@ -95,6 +95,12 @@
 57-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:45:15-62
 58            </intent-filter>
 59        </activity>
-60    </application>
-61
-62</manifest>
+60        <activity
+60-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:48:3-50:31
+61            android:name="com.oculus.sdk.vrcubeworldfw.SpeechRecognitionActivity"
+61-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:49:4-73
+62            android:exported="false" />
+62-->C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\AndroidManifest.xml:50:4-28
+63    </application>
+64
+65</manifest>
