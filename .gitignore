@@ -1,0 +1,117 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration files
+.idea/
+local.properties
+*.iml
+
+# Log files
+*.log
+
+# Android Studio specific files
+*.hprof
+*.orig
+.DS_Store
+*.swp
+*.swo
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Gradle Wrapper files
+!gradle/wrapper/gradle-wrapper.jar
+
+# Dependency caches
+**/build/
+**/captures/
+
+# Keystore files
+*.jks
+*.keystore
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+
+# Mac OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+*.bat
+
+# Linux
+*.swp
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# ProGuard
+proguard/
+proguard-out/
+mapping.txt
+
+# Log files
+*.log
+
+# Generated files
+gen/
+bin/
+.target/
+
+# Compiled Java files
+*.class
+
+# Annotations
+.annotations/
+
+# Exclude all the NDK directories from being tracked
+/app/src/main/obj/
+/app/src/main/libs/
+
+# JetBrains specific files
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# Exclude Android Studio auto-generated files
+.cxx/
+.externalNativeBuild/
+gradle-app.setting/
+
+# Exclude logs and temporary files
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/tasks.xml
+.idea/gradle.xml
+
+# Exclude Gradle related files
+.gradle/
+build/
+captures/
+outputs/
+
+# Ignore virtual environment (Python)
+.venv/
+env/
+__pycache__/
+
+# Node.js specific files (if any)
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log

@@ -1,7 +1,0 @@
-com.oculus.sdk.vrcubeworldfw.Android-pngs-0 C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\build\generated\res\pngs\release
-com.oculus.sdk.vrcubeworldfw.Android-resValues-1 C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\build\generated\res\resValues\release
-com.oculus.sdk.vrcubeworldfw.Android-packageReleaseResources-2 C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\build\intermediates\incremental\release\packageReleaseResources\merged.dir
-com.oculus.sdk.vrcubeworldfw.Android-packageReleaseResources-3 C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
-com.oculus.sdk.vrcubeworldfw.Android-merged_res-4 C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\build\intermediates\merged_res\release
-com.oculus.sdk.vrcubeworldfw.Android-release-5 C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\Projects\Android\src\release\res
-com.oculus.sdk.vrcubeworldfw.Android-VrCubeWorld_Framework-6 C:\Users\ranxk\Downloads\ovr_sdk_mobile_1.50.0\VrSamples\VrCubeWorld_Framework\res
