@@ -1,0 +1,87 @@
+# Android Studio
+.idea
+.gradle
+local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.iml
+/.vscode/
+/*.log
+
+# Gradle
+.gradle/
+/build/
+/*/build/
+!gradle-wrapper.jar
+gradle-app.setting
+
+# Android
+/app/build/
+/app/release/
+/app/debug/
+
+# Signing files
+.signing/
+.signing.properties
+.release-signing.properties
+.debug-signing.properties
+
+# Packaging files
+*.apk
+*.ap_
+*.aab
+
+# Proguard
+proguard/*.txt
+proguard/*.pro
+
+# lint
+lint/intermediates/
+lint/generated/
+
+# Log files
+*.log
+
+# Kotlin
+*.kotlin_metadata/
+*.kotlin_build/
+
+# IntelliJ IDEA
+/.idea/
+/.idea/
+
+# Keystore files (use environment variables to keep them secure)
+*.jks
+*.keystore
+
+# Unit test files
+*.test/
+
+# Assets (temporary files)
+*.nib
+*.hmap
+
+# Node.js (if you use it)
+node_modules/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+.Trash-*
+
+# Coverage Reports
+*.lcov
+*.lcov.info
+coverage/
+*.lcov-reports/
+
+# Gradle Wrapper
+gradle-wrapper.jar
+gradle-wrapper.properties
